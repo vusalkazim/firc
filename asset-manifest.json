@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/firc/static/css/main.545a4dc1.css",
+    "main.js": "/firc/static/js/main.dabd1f1c.js",
+    "index.html": "/firc/index.html",
+    "main.545a4dc1.css.map": "/firc/static/css/main.545a4dc1.css.map",
+    "main.dabd1f1c.js.map": "/firc/static/js/main.dabd1f1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.545a4dc1.css",
+    "static/js/main.dabd1f1c.js"
+  ]
+}
